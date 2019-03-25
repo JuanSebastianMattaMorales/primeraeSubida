@@ -1,0 +1,14 @@
+{
+  "name": "repositorio",
+  "version": "1.0.0",
+  "description": "1er datos",
+  "main": "cursos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Matta",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
